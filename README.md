@@ -28,7 +28,7 @@ A simple dark-themed To-Do List inspired by *The Godfather* movie trilogy.
 
 ## Live Demo
 
-*(If you deploy to GitHub Pages, paste the link here later)*
+https://greicianegaleoti.github.io/don-todolist/
 
 ## Author
 
